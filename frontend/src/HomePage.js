@@ -31,8 +31,8 @@ const HomePage = () => {
             <Typography variant="subtitle1" align="center">
             Empowering <ReactTyped
               strings={["Dentists", "Veterinarians", "Surgeons", "Nurses", "Psychiatrists"]}
-              typeSpeed={50}
-              backSpeed={50}
+              typeSpeed={65}
+              backSpeed={65}
               loop
             /> with instant access to FDA data.
           </Typography>
